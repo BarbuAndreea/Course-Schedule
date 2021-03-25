@@ -1,0 +1,5 @@
+C:\Users\BAM2\source\repos\Dsa\x64\Debug\Dsa.exe
+C:\Users\BAM2\source\repos\Dsa\x64\Debug\Dsa.pdb
+C:\Users\BAM2\Desktop\Dsa\x64\Debug\Dsa.exe
+C:\Users\BAM2\Desktop\Dsa\x64\Debug\Dsa.pdb
+C:\Users\BAM2\Desktop\Doc-CV\Dsa\x64\Debug\Dsa.exe
